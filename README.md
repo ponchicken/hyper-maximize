@@ -1,2 +1,2 @@
 # hyper-maximize
-Hyper terminal maximizeplugin
+Maximizes Hyper terminal window on open
